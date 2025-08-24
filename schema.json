@@ -1,0 +1,3366 @@
+{
+  "lei": "Lei Complementar 214/2025",
+  "versao": "0.1.0",
+  "fonte_texto_oficial": "",
+  "observacoes": "Estrutura inicial com 544 artigos e 23 anexos (placeholders). Substitua os campos 'redacao', 'jurisprudencia' e 'exemplos' conforme for alimentando a base.",
+  "artigos": {
+    "1": {
+      "titulo": "Art. 1",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "2": {
+      "titulo": "Art. 2",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "3": {
+      "titulo": "Art. 3",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "4": {
+      "titulo": "Art. 4",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "5": {
+      "titulo": "Art. 5",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "6": {
+      "titulo": "Art. 6",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "7": {
+      "titulo": "Art. 7",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "8": {
+      "titulo": "Art. 8",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "9": {
+      "titulo": "Art. 9",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "10": {
+      "titulo": "Art. 10",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "11": {
+      "titulo": "Art. 11",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "12": {
+      "titulo": "Art. 12",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "13": {
+      "titulo": "Art. 13",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "14": {
+      "titulo": "Art. 14",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "15": {
+      "titulo": "Art. 15",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "16": {
+      "titulo": "Art. 16",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "17": {
+      "titulo": "Art. 17",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "18": {
+      "titulo": "Art. 18",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "19": {
+      "titulo": "Art. 19",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "20": {
+      "titulo": "Art. 20",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "21": {
+      "titulo": "Art. 21",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "22": {
+      "titulo": "Art. 22",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "23": {
+      "titulo": "Art. 23",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "24": {
+      "titulo": "Art. 24",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "25": {
+      "titulo": "Art. 25",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "26": {
+      "titulo": "Art. 26",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "27": {
+      "titulo": "Art. 27",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "28": {
+      "titulo": "Art. 28",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "29": {
+      "titulo": "Art. 29",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "30": {
+      "titulo": "Art. 30",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "31": {
+      "titulo": "Art. 31",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "32": {
+      "titulo": "Art. 32",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "33": {
+      "titulo": "Art. 33",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "34": {
+      "titulo": "Art. 34",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "35": {
+      "titulo": "Art. 35",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "36": {
+      "titulo": "Art. 36",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "37": {
+      "titulo": "Art. 37",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "38": {
+      "titulo": "Art. 38",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "39": {
+      "titulo": "Art. 39",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "40": {
+      "titulo": "Art. 40",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "41": {
+      "titulo": "Art. 41",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "42": {
+      "titulo": "Art. 42",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "43": {
+      "titulo": "Art. 43",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "44": {
+      "titulo": "Art. 44",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "45": {
+      "titulo": "Art. 45",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "46": {
+      "titulo": "Art. 46",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "47": {
+      "titulo": "Art. 47",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "48": {
+      "titulo": "Art. 48",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "49": {
+      "titulo": "Art. 49",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "50": {
+      "titulo": "Art. 50",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "51": {
+      "titulo": "Art. 51",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "52": {
+      "titulo": "Art. 52",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "53": {
+      "titulo": "Art. 53",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "54": {
+      "titulo": "Art. 54",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "55": {
+      "titulo": "Art. 55",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "56": {
+      "titulo": "Art. 56",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "57": {
+      "titulo": "Art. 57",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "58": {
+      "titulo": "Art. 58",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "59": {
+      "titulo": "Art. 59",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "60": {
+      "titulo": "Art. 60",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "61": {
+      "titulo": "Art. 61",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "62": {
+      "titulo": "Art. 62",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "63": {
+      "titulo": "Art. 63",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "64": {
+      "titulo": "Art. 64",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "65": {
+      "titulo": "Art. 65",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "66": {
+      "titulo": "Art. 66",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "67": {
+      "titulo": "Art. 67",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "68": {
+      "titulo": "Art. 68",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "69": {
+      "titulo": "Art. 69",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "70": {
+      "titulo": "Art. 70",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "71": {
+      "titulo": "Art. 71",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "72": {
+      "titulo": "Art. 72",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "73": {
+      "titulo": "Art. 73",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "74": {
+      "titulo": "Art. 74",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "75": {
+      "titulo": "Art. 75",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "76": {
+      "titulo": "Art. 76",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "77": {
+      "titulo": "Art. 77",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "78": {
+      "titulo": "Art. 78",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "79": {
+      "titulo": "Art. 79",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "80": {
+      "titulo": "Art. 80",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "81": {
+      "titulo": "Art. 81",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "82": {
+      "titulo": "Art. 82",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "83": {
+      "titulo": "Art. 83",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "84": {
+      "titulo": "Art. 84",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "85": {
+      "titulo": "Art. 85",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "86": {
+      "titulo": "Art. 86",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "87": {
+      "titulo": "Art. 87",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "88": {
+      "titulo": "Art. 88",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "89": {
+      "titulo": "Art. 89",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "90": {
+      "titulo": "Art. 90",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "91": {
+      "titulo": "Art. 91",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "92": {
+      "titulo": "Art. 92",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "93": {
+      "titulo": "Art. 93",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "94": {
+      "titulo": "Art. 94",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "95": {
+      "titulo": "Art. 95",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "96": {
+      "titulo": "Art. 96",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "97": {
+      "titulo": "Art. 97",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "98": {
+      "titulo": "Art. 98",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "99": {
+      "titulo": "Art. 99",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "100": {
+      "titulo": "Art. 100",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "101": {
+      "titulo": "Art. 101",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "102": {
+      "titulo": "Art. 102",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "103": {
+      "titulo": "Art. 103",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "104": {
+      "titulo": "Art. 104",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "105": {
+      "titulo": "Art. 105",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "106": {
+      "titulo": "Art. 106",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "107": {
+      "titulo": "Art. 107",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "108": {
+      "titulo": "Art. 108",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "109": {
+      "titulo": "Art. 109",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "110": {
+      "titulo": "Art. 110",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "111": {
+      "titulo": "Art. 111",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "112": {
+      "titulo": "Art. 112",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "113": {
+      "titulo": "Art. 113",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "114": {
+      "titulo": "Art. 114",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "115": {
+      "titulo": "Art. 115",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "116": {
+      "titulo": "Art. 116",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "117": {
+      "titulo": "Art. 117",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "118": {
+      "titulo": "Art. 118",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "119": {
+      "titulo": "Art. 119",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "120": {
+      "titulo": "Art. 120",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "121": {
+      "titulo": "Art. 121",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "122": {
+      "titulo": "Art. 122",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "123": {
+      "titulo": "Art. 123",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "124": {
+      "titulo": "Art. 124",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "125": {
+      "titulo": "Art. 125",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "126": {
+      "titulo": "Art. 126",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "127": {
+      "titulo": "Art. 127",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "128": {
+      "titulo": "Art. 128",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "129": {
+      "titulo": "Art. 129",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "130": {
+      "titulo": "Art. 130",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "131": {
+      "titulo": "Art. 131",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "132": {
+      "titulo": "Art. 132",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "133": {
+      "titulo": "Art. 133",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "134": {
+      "titulo": "Art. 134",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "135": {
+      "titulo": "Art. 135",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "136": {
+      "titulo": "Art. 136",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "137": {
+      "titulo": "Art. 137",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "138": {
+      "titulo": "Art. 138",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "139": {
+      "titulo": "Art. 139",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "140": {
+      "titulo": "Art. 140",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "141": {
+      "titulo": "Art. 141",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "142": {
+      "titulo": "Art. 142",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "143": {
+      "titulo": "Art. 143",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "144": {
+      "titulo": "Art. 144",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "145": {
+      "titulo": "Art. 145",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "146": {
+      "titulo": "Art. 146",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "147": {
+      "titulo": "Art. 147",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "148": {
+      "titulo": "Art. 148",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "149": {
+      "titulo": "Art. 149",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "150": {
+      "titulo": "Art. 150",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "151": {
+      "titulo": "Art. 151",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "152": {
+      "titulo": "Art. 152",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "153": {
+      "titulo": "Art. 153",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "154": {
+      "titulo": "Art. 154",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "155": {
+      "titulo": "Art. 155",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "156": {
+      "titulo": "Art. 156",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "157": {
+      "titulo": "Art. 157",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "158": {
+      "titulo": "Art. 158",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "159": {
+      "titulo": "Art. 159",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "160": {
+      "titulo": "Art. 160",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "161": {
+      "titulo": "Art. 161",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "162": {
+      "titulo": "Art. 162",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "163": {
+      "titulo": "Art. 163",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "164": {
+      "titulo": "Art. 164",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "165": {
+      "titulo": "Art. 165",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "166": {
+      "titulo": "Art. 166",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "167": {
+      "titulo": "Art. 167",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "168": {
+      "titulo": "Art. 168",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "169": {
+      "titulo": "Art. 169",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "170": {
+      "titulo": "Art. 170",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "171": {
+      "titulo": "Art. 171",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "172": {
+      "titulo": "Art. 172",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "173": {
+      "titulo": "Art. 173",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "174": {
+      "titulo": "Art. 174",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "175": {
+      "titulo": "Art. 175",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "176": {
+      "titulo": "Art. 176",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "177": {
+      "titulo": "Art. 177",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "178": {
+      "titulo": "Art. 178",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "179": {
+      "titulo": "Art. 179",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "180": {
+      "titulo": "Art. 180",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "181": {
+      "titulo": "Art. 181",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "182": {
+      "titulo": "Art. 182",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "183": {
+      "titulo": "Art. 183",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "184": {
+      "titulo": "Art. 184",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "185": {
+      "titulo": "Art. 185",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "186": {
+      "titulo": "Art. 186",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "187": {
+      "titulo": "Art. 187",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "188": {
+      "titulo": "Art. 188",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "189": {
+      "titulo": "Art. 189",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "190": {
+      "titulo": "Art. 190",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "191": {
+      "titulo": "Art. 191",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "192": {
+      "titulo": "Art. 192",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "193": {
+      "titulo": "Art. 193",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "194": {
+      "titulo": "Art. 194",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "195": {
+      "titulo": "Art. 195",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "196": {
+      "titulo": "Art. 196",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "197": {
+      "titulo": "Art. 197",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "198": {
+      "titulo": "Art. 198",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "199": {
+      "titulo": "Art. 199",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "200": {
+      "titulo": "Art. 200",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "201": {
+      "titulo": "Art. 201",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "202": {
+      "titulo": "Art. 202",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "203": {
+      "titulo": "Art. 203",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "204": {
+      "titulo": "Art. 204",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "205": {
+      "titulo": "Art. 205",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "206": {
+      "titulo": "Art. 206",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "207": {
+      "titulo": "Art. 207",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "208": {
+      "titulo": "Art. 208",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "209": {
+      "titulo": "Art. 209",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "210": {
+      "titulo": "Art. 210",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "211": {
+      "titulo": "Art. 211",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "212": {
+      "titulo": "Art. 212",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "213": {
+      "titulo": "Art. 213",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "214": {
+      "titulo": "Art. 214",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "215": {
+      "titulo": "Art. 215",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "216": {
+      "titulo": "Art. 216",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "217": {
+      "titulo": "Art. 217",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "218": {
+      "titulo": "Art. 218",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "219": {
+      "titulo": "Art. 219",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "220": {
+      "titulo": "Art. 220",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "221": {
+      "titulo": "Art. 221",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "222": {
+      "titulo": "Art. 222",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "223": {
+      "titulo": "Art. 223",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "224": {
+      "titulo": "Art. 224",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "225": {
+      "titulo": "Art. 225",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "226": {
+      "titulo": "Art. 226",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "227": {
+      "titulo": "Art. 227",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "228": {
+      "titulo": "Art. 228",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "229": {
+      "titulo": "Art. 229",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "230": {
+      "titulo": "Art. 230",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "231": {
+      "titulo": "Art. 231",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "232": {
+      "titulo": "Art. 232",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "233": {
+      "titulo": "Art. 233",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "234": {
+      "titulo": "Art. 234",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "235": {
+      "titulo": "Art. 235",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "236": {
+      "titulo": "Art. 236",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "237": {
+      "titulo": "Art. 237",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "238": {
+      "titulo": "Art. 238",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "239": {
+      "titulo": "Art. 239",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "240": {
+      "titulo": "Art. 240",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "241": {
+      "titulo": "Art. 241",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "242": {
+      "titulo": "Art. 242",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "243": {
+      "titulo": "Art. 243",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "244": {
+      "titulo": "Art. 244",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "245": {
+      "titulo": "Art. 245",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "246": {
+      "titulo": "Art. 246",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "247": {
+      "titulo": "Art. 247",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "248": {
+      "titulo": "Art. 248",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "249": {
+      "titulo": "Art. 249",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "250": {
+      "titulo": "Art. 250",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "251": {
+      "titulo": "Art. 251",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "252": {
+      "titulo": "Art. 252",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "253": {
+      "titulo": "Art. 253",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "254": {
+      "titulo": "Art. 254",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "255": {
+      "titulo": "Art. 255",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "256": {
+      "titulo": "Art. 256",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "257": {
+      "titulo": "Art. 257",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "258": {
+      "titulo": "Art. 258",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "259": {
+      "titulo": "Art. 259",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "260": {
+      "titulo": "Art. 260",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "261": {
+      "titulo": "Art. 261",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "262": {
+      "titulo": "Art. 262",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "263": {
+      "titulo": "Art. 263",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "264": {
+      "titulo": "Art. 264",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "265": {
+      "titulo": "Art. 265",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "266": {
+      "titulo": "Art. 266",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "267": {
+      "titulo": "Art. 267",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "268": {
+      "titulo": "Art. 268",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "269": {
+      "titulo": "Art. 269",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "270": {
+      "titulo": "Art. 270",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "271": {
+      "titulo": "Art. 271",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "272": {
+      "titulo": "Art. 272",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "273": {
+      "titulo": "Art. 273",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "274": {
+      "titulo": "Art. 274",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "275": {
+      "titulo": "Art. 275",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "276": {
+      "titulo": "Art. 276",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "277": {
+      "titulo": "Art. 277",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "278": {
+      "titulo": "Art. 278",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "279": {
+      "titulo": "Art. 279",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "280": {
+      "titulo": "Art. 280",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "281": {
+      "titulo": "Art. 281",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "282": {
+      "titulo": "Art. 282",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "283": {
+      "titulo": "Art. 283",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "284": {
+      "titulo": "Art. 284",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "285": {
+      "titulo": "Art. 285",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "286": {
+      "titulo": "Art. 286",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "287": {
+      "titulo": "Art. 287",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "288": {
+      "titulo": "Art. 288",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "289": {
+      "titulo": "Art. 289",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "290": {
+      "titulo": "Art. 290",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "291": {
+      "titulo": "Art. 291",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "292": {
+      "titulo": "Art. 292",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "293": {
+      "titulo": "Art. 293",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "294": {
+      "titulo": "Art. 294",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "295": {
+      "titulo": "Art. 295",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "296": {
+      "titulo": "Art. 296",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "297": {
+      "titulo": "Art. 297",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "298": {
+      "titulo": "Art. 298",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "299": {
+      "titulo": "Art. 299",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "300": {
+      "titulo": "Art. 300",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "301": {
+      "titulo": "Art. 301",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "302": {
+      "titulo": "Art. 302",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "303": {
+      "titulo": "Art. 303",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "304": {
+      "titulo": "Art. 304",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "305": {
+      "titulo": "Art. 305",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "306": {
+      "titulo": "Art. 306",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "307": {
+      "titulo": "Art. 307",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "308": {
+      "titulo": "Art. 308",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "309": {
+      "titulo": "Art. 309",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "310": {
+      "titulo": "Art. 310",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "311": {
+      "titulo": "Art. 311",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "312": {
+      "titulo": "Art. 312",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "313": {
+      "titulo": "Art. 313",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "314": {
+      "titulo": "Art. 314",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "315": {
+      "titulo": "Art. 315",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "316": {
+      "titulo": "Art. 316",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "317": {
+      "titulo": "Art. 317",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "318": {
+      "titulo": "Art. 318",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "319": {
+      "titulo": "Art. 319",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "320": {
+      "titulo": "Art. 320",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "321": {
+      "titulo": "Art. 321",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "322": {
+      "titulo": "Art. 322",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "323": {
+      "titulo": "Art. 323",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "324": {
+      "titulo": "Art. 324",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "325": {
+      "titulo": "Art. 325",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "326": {
+      "titulo": "Art. 326",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "327": {
+      "titulo": "Art. 327",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "328": {
+      "titulo": "Art. 328",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "329": {
+      "titulo": "Art. 329",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "330": {
+      "titulo": "Art. 330",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "331": {
+      "titulo": "Art. 331",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "332": {
+      "titulo": "Art. 332",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "333": {
+      "titulo": "Art. 333",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "334": {
+      "titulo": "Art. 334",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "335": {
+      "titulo": "Art. 335",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "336": {
+      "titulo": "Art. 336",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "337": {
+      "titulo": "Art. 337",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "338": {
+      "titulo": "Art. 338",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "339": {
+      "titulo": "Art. 339",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "340": {
+      "titulo": "Art. 340",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "341": {
+      "titulo": "Art. 341",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "342": {
+      "titulo": "Art. 342",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "343": {
+      "titulo": "Art. 343",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "344": {
+      "titulo": "Art. 344",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "345": {
+      "titulo": "Art. 345",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "346": {
+      "titulo": "Art. 346",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "347": {
+      "titulo": "Art. 347",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "348": {
+      "titulo": "Art. 348",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "349": {
+      "titulo": "Art. 349",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "350": {
+      "titulo": "Art. 350",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "351": {
+      "titulo": "Art. 351",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "352": {
+      "titulo": "Art. 352",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "353": {
+      "titulo": "Art. 353",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "354": {
+      "titulo": "Art. 354",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "355": {
+      "titulo": "Art. 355",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "356": {
+      "titulo": "Art. 356",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "357": {
+      "titulo": "Art. 357",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "358": {
+      "titulo": "Art. 358",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "359": {
+      "titulo": "Art. 359",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "360": {
+      "titulo": "Art. 360",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "361": {
+      "titulo": "Art. 361",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "362": {
+      "titulo": "Art. 362",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "363": {
+      "titulo": "Art. 363",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "364": {
+      "titulo": "Art. 364",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "365": {
+      "titulo": "Art. 365",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "366": {
+      "titulo": "Art. 366",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "367": {
+      "titulo": "Art. 367",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "368": {
+      "titulo": "Art. 368",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "369": {
+      "titulo": "Art. 369",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "370": {
+      "titulo": "Art. 370",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "371": {
+      "titulo": "Art. 371",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "372": {
+      "titulo": "Art. 372",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "373": {
+      "titulo": "Art. 373",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "374": {
+      "titulo": "Art. 374",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "375": {
+      "titulo": "Art. 375",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "376": {
+      "titulo": "Art. 376",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "377": {
+      "titulo": "Art. 377",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "378": {
+      "titulo": "Art. 378",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "379": {
+      "titulo": "Art. 379",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "380": {
+      "titulo": "Art. 380",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "381": {
+      "titulo": "Art. 381",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "382": {
+      "titulo": "Art. 382",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "383": {
+      "titulo": "Art. 383",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "384": {
+      "titulo": "Art. 384",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "385": {
+      "titulo": "Art. 385",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "386": {
+      "titulo": "Art. 386",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "387": {
+      "titulo": "Art. 387",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "388": {
+      "titulo": "Art. 388",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "389": {
+      "titulo": "Art. 389",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "390": {
+      "titulo": "Art. 390",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "391": {
+      "titulo": "Art. 391",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "392": {
+      "titulo": "Art. 392",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "393": {
+      "titulo": "Art. 393",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "394": {
+      "titulo": "Art. 394",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "395": {
+      "titulo": "Art. 395",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "396": {
+      "titulo": "Art. 396",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "397": {
+      "titulo": "Art. 397",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "398": {
+      "titulo": "Art. 398",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "399": {
+      "titulo": "Art. 399",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "400": {
+      "titulo": "Art. 400",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "401": {
+      "titulo": "Art. 401",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "402": {
+      "titulo": "Art. 402",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "403": {
+      "titulo": "Art. 403",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "404": {
+      "titulo": "Art. 404",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "405": {
+      "titulo": "Art. 405",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "406": {
+      "titulo": "Art. 406",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "407": {
+      "titulo": "Art. 407",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "408": {
+      "titulo": "Art. 408",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "409": {
+      "titulo": "Art. 409",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "410": {
+      "titulo": "Art. 410",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "411": {
+      "titulo": "Art. 411",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "412": {
+      "titulo": "Art. 412",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "413": {
+      "titulo": "Art. 413",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "414": {
+      "titulo": "Art. 414",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "415": {
+      "titulo": "Art. 415",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "416": {
+      "titulo": "Art. 416",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "417": {
+      "titulo": "Art. 417",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "418": {
+      "titulo": "Art. 418",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "419": {
+      "titulo": "Art. 419",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "420": {
+      "titulo": "Art. 420",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "421": {
+      "titulo": "Art. 421",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "422": {
+      "titulo": "Art. 422",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "423": {
+      "titulo": "Art. 423",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "424": {
+      "titulo": "Art. 424",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "425": {
+      "titulo": "Art. 425",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "426": {
+      "titulo": "Art. 426",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "427": {
+      "titulo": "Art. 427",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "428": {
+      "titulo": "Art. 428",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "429": {
+      "titulo": "Art. 429",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "430": {
+      "titulo": "Art. 430",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "431": {
+      "titulo": "Art. 431",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "432": {
+      "titulo": "Art. 432",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "433": {
+      "titulo": "Art. 433",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "434": {
+      "titulo": "Art. 434",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "435": {
+      "titulo": "Art. 435",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "436": {
+      "titulo": "Art. 436",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "437": {
+      "titulo": "Art. 437",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "438": {
+      "titulo": "Art. 438",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "439": {
+      "titulo": "Art. 439",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "440": {
+      "titulo": "Art. 440",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "441": {
+      "titulo": "Art. 441",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "442": {
+      "titulo": "Art. 442",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "443": {
+      "titulo": "Art. 443",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "444": {
+      "titulo": "Art. 444",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "445": {
+      "titulo": "Art. 445",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "446": {
+      "titulo": "Art. 446",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "447": {
+      "titulo": "Art. 447",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "448": {
+      "titulo": "Art. 448",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "449": {
+      "titulo": "Art. 449",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "450": {
+      "titulo": "Art. 450",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "451": {
+      "titulo": "Art. 451",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "452": {
+      "titulo": "Art. 452",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "453": {
+      "titulo": "Art. 453",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "454": {
+      "titulo": "Art. 454",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "455": {
+      "titulo": "Art. 455",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "456": {
+      "titulo": "Art. 456",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "457": {
+      "titulo": "Art. 457",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "458": {
+      "titulo": "Art. 458",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "459": {
+      "titulo": "Art. 459",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "460": {
+      "titulo": "Art. 460",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "461": {
+      "titulo": "Art. 461",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "462": {
+      "titulo": "Art. 462",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "463": {
+      "titulo": "Art. 463",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "464": {
+      "titulo": "Art. 464",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "465": {
+      "titulo": "Art. 465",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "466": {
+      "titulo": "Art. 466",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "467": {
+      "titulo": "Art. 467",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "468": {
+      "titulo": "Art. 468",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "469": {
+      "titulo": "Art. 469",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "470": {
+      "titulo": "Art. 470",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "471": {
+      "titulo": "Art. 471",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "472": {
+      "titulo": "Art. 472",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "473": {
+      "titulo": "Art. 473",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "474": {
+      "titulo": "Art. 474",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "475": {
+      "titulo": "Art. 475",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "476": {
+      "titulo": "Art. 476",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "477": {
+      "titulo": "Art. 477",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "478": {
+      "titulo": "Art. 478",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "479": {
+      "titulo": "Art. 479",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "480": {
+      "titulo": "Art. 480",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "481": {
+      "titulo": "Art. 481",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "482": {
+      "titulo": "Art. 482",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "483": {
+      "titulo": "Art. 483",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "484": {
+      "titulo": "Art. 484",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "485": {
+      "titulo": "Art. 485",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "486": {
+      "titulo": "Art. 486",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "487": {
+      "titulo": "Art. 487",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "488": {
+      "titulo": "Art. 488",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "489": {
+      "titulo": "Art. 489",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "490": {
+      "titulo": "Art. 490",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "491": {
+      "titulo": "Art. 491",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "492": {
+      "titulo": "Art. 492",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "493": {
+      "titulo": "Art. 493",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "494": {
+      "titulo": "Art. 494",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "495": {
+      "titulo": "Art. 495",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "496": {
+      "titulo": "Art. 496",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "497": {
+      "titulo": "Art. 497",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "498": {
+      "titulo": "Art. 498",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "499": {
+      "titulo": "Art. 499",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "500": {
+      "titulo": "Art. 500",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "501": {
+      "titulo": "Art. 501",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "502": {
+      "titulo": "Art. 502",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "503": {
+      "titulo": "Art. 503",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "504": {
+      "titulo": "Art. 504",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "505": {
+      "titulo": "Art. 505",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "506": {
+      "titulo": "Art. 506",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "507": {
+      "titulo": "Art. 507",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "508": {
+      "titulo": "Art. 508",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "509": {
+      "titulo": "Art. 509",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "510": {
+      "titulo": "Art. 510",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "511": {
+      "titulo": "Art. 511",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "512": {
+      "titulo": "Art. 512",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "513": {
+      "titulo": "Art. 513",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "514": {
+      "titulo": "Art. 514",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "515": {
+      "titulo": "Art. 515",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "516": {
+      "titulo": "Art. 516",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "517": {
+      "titulo": "Art. 517",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "518": {
+      "titulo": "Art. 518",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "519": {
+      "titulo": "Art. 519",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "520": {
+      "titulo": "Art. 520",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "521": {
+      "titulo": "Art. 521",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "522": {
+      "titulo": "Art. 522",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "523": {
+      "titulo": "Art. 523",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "524": {
+      "titulo": "Art. 524",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "525": {
+      "titulo": "Art. 525",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "526": {
+      "titulo": "Art. 526",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "527": {
+      "titulo": "Art. 527",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "528": {
+      "titulo": "Art. 528",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "529": {
+      "titulo": "Art. 529",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "530": {
+      "titulo": "Art. 530",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "531": {
+      "titulo": "Art. 531",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "532": {
+      "titulo": "Art. 532",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "533": {
+      "titulo": "Art. 533",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "534": {
+      "titulo": "Art. 534",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "535": {
+      "titulo": "Art. 535",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "536": {
+      "titulo": "Art. 536",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "537": {
+      "titulo": "Art. 537",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "538": {
+      "titulo": "Art. 538",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "539": {
+      "titulo": "Art. 539",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "540": {
+      "titulo": "Art. 540",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "541": {
+      "titulo": "Art. 541",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "542": {
+      "titulo": "Art. 542",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "543": {
+      "titulo": "Art. 543",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    },
+    "544": {
+      "titulo": "Art. 544",
+      "redacao": "",
+      "jurisprudencia": "",
+      "exemplos": ""
+    }
+  },
+  "anexos": {
+    "1": {
+      "titulo": "Anexo 1",
+      "conteudo": ""
+    },
+    "2": {
+      "titulo": "Anexo 2",
+      "conteudo": ""
+    },
+    "3": {
+      "titulo": "Anexo 3",
+      "conteudo": ""
+    },
+    "4": {
+      "titulo": "Anexo 4",
+      "conteudo": ""
+    },
+    "5": {
+      "titulo": "Anexo 5",
+      "conteudo": ""
+    },
+    "6": {
+      "titulo": "Anexo 6",
+      "conteudo": ""
+    },
+    "7": {
+      "titulo": "Anexo 7",
+      "conteudo": ""
+    },
+    "8": {
+      "titulo": "Anexo 8",
+      "conteudo": ""
+    },
+    "9": {
+      "titulo": "Anexo 9",
+      "conteudo": ""
+    },
+    "10": {
+      "titulo": "Anexo 10",
+      "conteudo": ""
+    },
+    "11": {
+      "titulo": "Anexo 11",
+      "conteudo": ""
+    },
+    "12": {
+      "titulo": "Anexo 12",
+      "conteudo": ""
+    },
+    "13": {
+      "titulo": "Anexo 13",
+      "conteudo": ""
+    },
+    "14": {
+      "titulo": "Anexo 14",
+      "conteudo": ""
+    },
+    "15": {
+      "titulo": "Anexo 15",
+      "conteudo": ""
+    },
+    "16": {
+      "titulo": "Anexo 16",
+      "conteudo": ""
+    },
+    "17": {
+      "titulo": "Anexo 17",
+      "conteudo": ""
+    },
+    "18": {
+      "titulo": "Anexo 18",
+      "conteudo": ""
+    },
+    "19": {
+      "titulo": "Anexo 19",
+      "conteudo": ""
+    },
+    "20": {
+      "titulo": "Anexo 20",
+      "conteudo": ""
+    },
+    "21": {
+      "titulo": "Anexo 21",
+      "conteudo": ""
+    },
+    "22": {
+      "titulo": "Anexo 22",
+      "conteudo": ""
+    },
+    "23": {
+      "titulo": "Anexo 23",
+      "conteudo": ""
+    }
+  }
+}
